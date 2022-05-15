@@ -75,6 +75,11 @@ body {
     color: var(--light-grey);
     font-weight: 700;
 }
+
+.option:focus {
+    background-color: var(--orange);
+    color: white;
+}
     
 .submit {
     width: 100%;
@@ -100,5 +105,4 @@ body {
         background-color: #fff;
         color: var(--orange);
     }
-
 }

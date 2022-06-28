@@ -137,9 +137,10 @@ body {
     .card {
         width: 41.5rem;
         height: 41.7rem;
-        padding-top: 3.3rem;
+        padding-top: 3rem;
         padding-left: 3.25rem;
         padding-right: 4.25rem;
+        transform: translateY(35%);
     }
 
     .selected-rating {
